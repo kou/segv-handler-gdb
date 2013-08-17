@@ -1,0 +1,7 @@
+/.yardoc/
+/doc/reference/
+/pkg/
+.gdb_history
+Makefile
+*.o
+*.so

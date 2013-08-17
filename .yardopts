@@ -1,0 +1,4 @@
+--output-dir doc/reference/en
+--files doc/text/*.*
+lib/**/*.rb
+ext/**/*.c
